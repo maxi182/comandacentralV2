@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2863cb</color>
+    <color name="colorPrimaryDark">#003a99</color>
+    <color name="colorPrimaryLight">#6990ff</color>
+    <color name="colorAccent">#003a99</color>
+
+
+    <color name="iconsGray">#949494</color>
+    <color name="iconsGrayDark">#626262</color>
+    <color name="formBgGray">#FAF9F8</color>
+    <color name="white">#FFFFFF</color>
+    <color name="colorDivider">#BDBDBD</color>
+    <color name="colorDisabled">#E0E0E0</color>
+    <color name="colorDividerLight">#f4f4f4</color>
+    <color name="colorEditBg">#EBEBEB</color>
+    <color name="colorBgDivider">#F1F1F1</color>
+    <color name="colorYellowBanana">#F1F12E</color>
+    <color name="settingsOptionBlackText">#3C3C3C</color>
+
+</resources>

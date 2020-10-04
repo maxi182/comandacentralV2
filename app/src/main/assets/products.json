@@ -1,0 +1,130 @@
+{
+  "codigoError": 200,
+  "errorMessage": null,
+  "data": [
+    {
+      "idProducto": 1,
+      "codigo": "00001",
+      "descripcion": "Bananas",
+      "lineaProducto": [
+        {
+          "idLineaProducto": 1001,
+          "descripcion": "Brasil",
+          "proveedor": "Simpe",
+          "lote":[
+            {
+              "fechaIngreso": "10/09/2020",
+              "descripcion": "BANANA SIMP",
+              "cantidad": 120
+            },
+            {
+              "fechaIngreso": "07/09/2020",
+              "descripcion": "BANANA SIMP",
+              "descripcion": "Brasil",
+              "cantidad": 20
+            }
+          ]
+        },
+        {
+          "idLineaProducto": 1002,
+          "descripcion": "Ecuador",
+          "proveedor": "Battaglio",
+          "lote":[
+            {
+              "fechaIngreso": "10/09/2020",
+              "descripcion": "BANANA Bat",
+              "cantidad": 120
+            },
+            {
+              "fechaIngreso": "07/09/2020",
+              "descripcion": "BANANA Bat",
+              "cantidad": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idProducto": 2,
+      "codigo": "00002",
+      "descripcion": "Manzana",
+      "lineaProducto": [
+        {
+          "idLineaProducto": 2001,
+          "descripcion": "Red Delicius",
+          "proveedor": "Vicente",
+          "lote":[
+            {
+              "fechaIngreso": "10/09/2020",
+              "descripcion": "MZN Vicente",
+              "cantidad": 250
+            },
+            {
+              "fechaIngreso": "07/09/2020",
+              "descripcion": "MZN Vicente",
+              "cantidad": 125
+            }
+          ]
+        },
+        {
+          "idLineaProducto": 2002,
+          "descripcion": "Granny Smith",
+          "proveedor": "San Formerio",
+          "lote":[
+            {
+              "fechaIngreso": "10/09/2020",
+              "descripcion": "MZN SF",
+              "cantidad": 140
+            },
+            {
+              "fechaIngreso": "07/09/2020",
+              "descripcion": "MZN SF",
+              "cantidad": 38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idProducto": 3,
+      "codigo": "00003",
+      "descripcion": "Pera",
+      "lineaProducto": [
+        {
+          "idLineaProducto": 3001,
+          "descripcion": "Packard",
+          "proveedor": "Vicente",
+          "lote":[
+            {
+              "fechaIngreso": "10/09/2020",
+              "descripcion": "Pera Vic",
+              "cantidad": 250
+            },
+            {
+              "fechaIngreso": "07/09/2020",
+              "descripcion": "Pera Vic",
+              "cantidad": 125
+            }
+          ]
+        },
+        {
+          "idLineaProducto": 3002,
+          "descripcion": "Williams",
+          "proveedor": "Vicente",
+          "lote":[
+            {
+              "fechaIngreso": "10/09/2020",
+              "descripcion": "Pera Vic",
+              "cantidad": 140
+            },
+            {
+              "fechaIngreso": "07/09/2020",
+              "descripcion": "Pera Vic",
+              "cantidad": 38
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

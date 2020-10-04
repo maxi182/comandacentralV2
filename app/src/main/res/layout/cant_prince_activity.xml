@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <include layout="@layout/layout_toolbar_search" />
+
+
+    <TextView
+        android:id="@+id/txt_selection_progress"
+        android:layout_marginLeft="@dimen/general_margin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/general_margin_small"
+        android:textSize="@dimen/text_size_semi_extra_large"
+        tools:text="Banana"
+        android:textStyle="bold">
+
+    </TextView>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dip"
+        android:layout_margin="@dimen/general_margin_small"
+        android:background="@drawable/textview_square_border">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/cant_text_input_layout"
+                android:layout_width="0dip"
+                android:layout_marginLeft="@dimen/general_margin"
+                android:layout_gravity="center"
+                android:layout_height="wrap_content"
+                android:layout_weight=".8"
+                app:hintTextAppearance="@style/TextLabel"
+                android:gravity="center"
+                android:hint="Cantidad"
+                android:textColorHint="@color/colorPrimary">
+
+                <androidx.appcompat.widget.AppCompatEditText
+                    android:id="@+id/cant_edit_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/general_margin"
+                    android:textColor="@color/settingsOptionBlackText"
+                    android:layout_marginTop="@dimen/general_margin_medium"
+                    android:layout_marginRight="@dimen/general_margin"
+                    android:layout_weight="1"
+                    android:backgroundTint="@color/colorPrimary"
+                    android:digits="1234567890"
+                    android:drawablePadding="10dp"
+                    android:imeOptions="actionGo"
+                    android:inputType="phone"
+                    android:maxLength="4"
+                    android:maxLines="1"
+                    android:paddingBottom="15dp"
+                    android:textAlignment="center"
+                    android:textSize="@dimen/text_size_extra_amount"
+                    android:translationY="3dp" />
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <LinearLayout
+                android:layout_width="20dip"
+                android:layout_height="match_parent"
+                android:layout_weight=".2"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/img_btn_add"
+                    android:layout_width="80dip"
+                    android:layout_height="80dip"
+                    android:layout_margin="@dimen/general_margin_small"
+                    android:foreground="?attr/selectableItemBackground"
+                    android:clickable="true"
+                    android:background="@drawable/square_add">
+
+                </Button>
+
+                <Button
+                    android:id="@+id/img_btn_minus"
+                    android:layout_width="80dip"
+                    android:clickable="true"
+                    android:foreground="?attr/selectableItemBackground"
+                    android:layout_height="80dip"
+                    android:layout_margin="@dimen/general_margin_small"
+                    android:background="@drawable/square_minus">
+
+                </Button>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dip"
+        android:layout_margin="@dimen/general_margin_small"
+        android:background="@drawable/textview_square_border">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Precio"
+            android:layout_margin="@dimen/general_margin"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="@dimen/text_size_extra_extra_large" />
+
+        <LinearLayout
+            android:id="@+id/linear_amount"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="$"
+                android:textColor="@color/iconsGray"
+                android:textSize="@dimen/text_size_extra_amount" />
+
+
+            <com.mcba.comandacentralv2.Utils.CurrencyEditText
+                android:id="@+id/amount_edittext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:cursorVisible="false"
+                android:digits="1234567890"
+                android:inputType="phone"
+                android:text="0.00"
+                android:maxLength="8"
+                android:textColor="@color/settingsOptionBlackText"
+                android:textSize="@dimen/text_size_extra_amount" />
+
+
+        </LinearLayout>
+
+    </FrameLayout>
+
+
+</LinearLayout>

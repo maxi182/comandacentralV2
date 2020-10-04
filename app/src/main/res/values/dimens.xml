@@ -1,0 +1,42 @@
+<resources>
+
+    <dimen name="general_margin_tiny">2dp</dimen>
+    <dimen name="general_margin_very_small">4dp</dimen>
+    <dimen name="general_margin_small">8dp</dimen>
+    <dimen name="general_margin_medium">12dp</dimen>
+    <dimen name="general_margin">16dp</dimen>
+    <dimen name="general_margin_large_semi_large">20dp</dimen>
+    <dimen name="general_margin_large">24dp</dimen>
+    <dimen name="general_margin_very_large">36dp</dimen>
+    <dimen name="general_margin_very_very_large">40dp</dimen>
+    <dimen name="general_input_background">52dp</dimen>
+
+    <dimen name="general_input_background_middle">78dp</dimen>
+
+    <dimen name="toolbar_height">56dp</dimen>
+    <dimen name="settings_item_height">60dp</dimen>
+    <dimen name="status_bar_height">20dp</dimen>
+    <dimen name="nav_bar_height">48dp</dimen>
+    <dimen name="user_item_height">70dp</dimen>
+
+    <!--Text sizes-->
+    <dimen name="text_size_regular">8sp</dimen>
+    <dimen name="text_size_toolbar">20sp</dimen>
+    <dimen name="text_size_form">26sp</dimen>
+    <dimen name="text_size_button">23sp</dimen>
+    <dimen name="text_size_italic">25sp</dimen>
+    <dimen name="text_size_title">32sp</dimen>
+
+    <dimen name="text_size_very_small">10sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_medium">15sp</dimen>
+    <dimen name="text_size_normal">16sp</dimen>
+    <dimen name="text_size_large">18sp</dimen>
+    <dimen name="text_size_semi_extra_large">20sp</dimen>
+    <dimen name="text_size_extra_large">22sp</dimen>
+    <dimen name="text_size_extra_extra_large">24sp</dimen>
+    <dimen name="text_size_extra_huge">48sp</dimen>
+    <dimen name="text_size_extra_amount">70sp</dimen>
+
+
+</resources>

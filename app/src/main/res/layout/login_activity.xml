@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/general_input_background"
+            android:layout_margin="@dimen/general_margin"
+            android:background="@drawable/round_white_selector">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:src="@drawable/ic_person_gray" />
+
+            <EditText
+                android:id="@+id/usr_textview"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/general_margin_small"
+                android:background="@drawable/round_white_selector"
+                android:hint="Nombre de usuario" />
+
+        </LinearLayout>
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/general_input_background"
+            android:layout_margin="@dimen/general_margin"
+            android:background="@drawable/round_white_selector">
+
+
+            <EditText
+                android:id="@+id/psw_textview"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/general_margin_small"
+                android:background="@drawable/round_white_selector"
+                android:hint="Contraseña"
+                android:inputType="textPassword" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/done_btn_textview"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/general_input_background"
+            android:layout_margin="@dimen/general_margin"
+            android:background="@drawable/btn_solid_primary"
+            android:text="INGRESAR"
+            android:textColor="@color/white" />
+        <Button
+            android:id="@+id/done_btn_textview_2"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/general_input_background"
+            android:layout_margin="@dimen/general_margin"
+            android:background="@drawable/btn_solid_primary"
+            android:text="savecomanda"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/done_btn_textview_3"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/general_input_background"
+            android:layout_margin="@dimen/general_margin"
+            android:background="@drawable/btn_solid_primary"
+            android:text="getcomandas"
+            android:textColor="@color/white" />
+    </LinearLayout>
+
+</LinearLayout>

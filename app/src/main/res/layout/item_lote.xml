@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/content_card"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/general_margin_small"
+        android:background="@color/colorPrimary"
+        android:elevation="2dip"
+        android:gravity="center_vertical"
+        app:cardCornerRadius="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="250dip"
+            android:background="?selectableItemBackground"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/img_product_lote"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_weight=".1"
+                android:padding="@dimen/general_margin_small" />
+
+            <LinearLayout
+                android:id="@+id/linear_product"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="bottom"
+                android:layout_weight=".30"
+                android:background="@color/colorPrimary"
+                android:gravity="center_vertical"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/txt_pos_product"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:text="BANANA"
+                    android:textColor="@android:color/white"
+                    android:textSize="@dimen/text_size_semi_extra_large"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/txt_lote_date"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:text="LOTEX"
+                    android:textColor="@android:color/white"
+                    android:textSize="@dimen/text_size_semi_extra_large"
+                    android:textStyle="bold" />
+
+
+            </LinearLayout>
+        </LinearLayout>
+        <TextView
+            android:id="@+id/txt_cantidad"
+            android:layout_width="45dip"
+            android:layout_height="45dip"
+            android:layout_gravity="right"
+            tools:text="20"
+            android:textSize="@dimen/text_size_large"
+            android:gravity="center"
+
+            android:textColor="@color/white"
+            android:layout_marginLeft="@dimen/general_margin">
+
+
+        </TextView>
+
+    </androidx.cardview.widget.CardView>
+
+
+
+</FrameLayout>
+

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mcba</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="base_url">Please try again later.</string>
+    <string name="dialog_ok">OK</string>
+    <string name="error_generic_title">Something\'s gone wrong&#8230;</string>
+    <string name="error_generic_msg">Please try again later.</string>
+    <string name="aceptar">ACEPTAR</string>
+    <string name="canceler">CANCELAR</string>
+    <string name="dialog_title_back">ATENCION</string>
+    <string name="dialog_message_back_detail">Esta seguro que desea volver a la pantalla principal?\nLa comanda actual sera descartada.</string>
+
+</resources>

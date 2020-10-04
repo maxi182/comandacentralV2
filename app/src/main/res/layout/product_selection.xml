@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical">
+
+    <include layout="@layout/layout_toolbar_search" />
+
+    <TextView
+        android:id="@+id/txt_selection_progress"
+        android:layout_marginLeft="@dimen/general_margin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/general_margin_small"
+        android:textSize="@dimen/text_size_semi_extra_large"
+        tools:text="Banana"
+        android:textStyle="bold">
+
+    </TextView>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_product_selection"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/container_header"
+        android:layout_marginBottom="@dimen/toolbar_height"
+        android:padding="@dimen/general_margin_small"
+        android:useDefaultMargins="true" />
+
+</LinearLayout>

@@ -1,0 +1,1424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/dummy.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Projects/LV/sol-mobile-fleet/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Projects/LV/sol-mobile-fleet/app/src/main/java/com/prosegur/sol/mobile/fleet/jobs/JobSendReport.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Projects/LV/sol-mobile-fleet/app/src/main/java/com/prosegur/sol/mobile/fleet/utils/NotificationCentral.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Projects/LV/sol-mobile-fleet/app/src/main/java/com/prosegur/sol/mobile/fleet/view/activities/BaseActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Projects/LV/sol-mobile-fleet/local.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.mockk/mockk/1.8.13.kotlin13/173b3ddd24a0119d421e83f1553d1bb2b2f2743e/mockk-1.8.13.kotlin13-sources.jar!/io/mockk/MockK.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Genesis-mobile/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Genesis-mobile/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Genesis-mobile/data/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Navigation-Components-Example/app/src/main/res/navigation/nav_graph.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../TragosApp/app/src/main/java/com/g/tragosapp/ui/FavoritosFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../TragosApp/app/src/main/java/com/g/tragosapp/ui/MainFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/java/com/uade/claims/ClaimApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/java/com/uade/claims/api/ApiEndpoint.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/java/com/uade/claims/api/RestClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/java/com/uade/claims/contract/LoginContract.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/java/com/uade/claims/model/ErrorResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/java/com/uade/claims/model/Password.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/java/com/uade/claims/model/ResetPasswordData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/java/com/uade/claims/model/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/java/com/uade/claims/model/UserType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/java/com/uade/claims/model/error/ErrorDetail.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/java/com/uade/claims/model/error/ErrorResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/java/com/uade/claims/model/request/LoginData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/java/com/uade/claims/model/response/ListData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/java/com/uade/claims/model/response/SingleData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/java/com/uade/claims/presenter/LoginPresenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/java/com/uade/claims/ui/IntroActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/java/com/uade/claims/ui/LoginActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/java/com/uade/claims/ui/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/java/com/uade/claims/ui/ResetPasswordActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/java/com/uade/claims/ui/base/BaseActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/java/com/uade/claims/ui/base/BaseFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/java/com/uade/claims/ui/fragments/LoginFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/java/com/uade/claims/util/Utils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/res/drawable/btn_solid_primary.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/res/drawable/claim_document_selector.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/res/drawable/ic_cloud_off.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/res/drawable/location_selector.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/res/drawable/notification_selector.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/res/drawable/profile_selector.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/res/layout/activity_intro.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/res/layout/create_profile_fragment.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/res/layout/layout_toolbar.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/res/layout/login_fragment.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/res/menu/my_navigation_items.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claims/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/mcba/comandacentralv2/AppDatabase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/assets/products.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/AppDatabase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/ComandaCentralApplication.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/Utils/AddResourceExtensions.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/Utils/Constants.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/Utils/CurrencyEditText.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/Utils/DateUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/Utils/RoomConverters.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/Utils/StorageProvider.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/Utils/Utils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/api/ApiEndpoints.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/api/Resource.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/api/RestClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/data/DataSource.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/data/model/Client.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/data/model/Comanda.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/data/model/ComandaItem.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/data/model/ComandaProductItem.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/data/model/Drink.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/data/model/ListData.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/data/model/Lote.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/data/model/ProductData.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/data/model/ProductDataEntity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/data/model/ProductDatay.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/data/model/ProductListData.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/data/model/ProductType.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/data/model/User.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/domain/CantPriceUseCase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/domain/DetailListUseCase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/domain/InitComandaUseCase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/domain/InitComandaUseCaseRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/domain/LoginUseCase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/domain/LoginUseCaseRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/domain/ProductSelectionUseCase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/domain/ProductSelectionUseCaseRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/domain/Repo.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/domain/RepoImpl.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/domain/TragosDao.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/domain/WebService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/domain/dao/ComandaDao.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/domain/dao/ComandaItemDao.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/domain/dao/ProductDao.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/domain/dao/ProductListDao.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/domain/dao/UserDao.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/ui/CantPriceActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/ui/ClienteSelectionActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/ui/DetailListActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/ui/InitComandaActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/ui/LoginActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/ui/LoteSelectionActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/ui/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/ui/ProductSelectionActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/ui/ProductTypeSelectionActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/ui/SplashActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/ui/adapter/MainAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/ui/base/BaseActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/ui/base/BaseFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/ui/base/SingleLiveEvent.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/ui/viewmodel/CantPriceVMFactory.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/ui/viewmodel/CantPriceViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/ui/viewmodel/DetailListViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/ui/viewmodel/DetailListViewModelFactory.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/ui/viewmodel/InitComandaViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/ui/viewmodel/InitVIewModelFactory.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/ui/viewmodel/LoginViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/ui/viewmodel/LoginViewModelFactory.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/ui/viewmodel/ProductSelectionVMFactory.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/ui/viewmodel/ProductSelectionViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/usecase/LoginUseCase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mcba/comandacentralv2/viewmodel/LoginViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/anim/slide_in_left.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/anim/slide_in_right.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/anim/slide_out_left.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/anim/slide_out_right.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/bg_top_rounded_btm.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/btn_solid_primary.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/button_blue_selector.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/cash_selector.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/client_selector.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/currency_usd_circle.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/currency_usd_circle_outline.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/gray_boder_selector.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/ic_bananas.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/ic_calendar.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/ic_client.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/ic_client_outline.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/ic_location.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/ic_manzana.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/ic_manzana_granny.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/ic_pera.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/ic_person_gray.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/ic_pineapple.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/round_circle.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/round_circle_arrow.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/square_add.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/square_minus.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/textview_square_border.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/cant_prince_activity.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/client_selection.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/detail_list_activity.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/include_product_list_header.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/init_comanda_activity.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/item_comanda_resumen.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/item_comanda_resumen_data.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/item_item.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/item_lote.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/item_product.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/layout_toolbar_search.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/login_activity.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/product_selection.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/assets/CREATE_DATABASE.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/assets/DROP_DATABASE.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/activities/CajaTransferenciaActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/activities/ColetaActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/activities/DetalleParadaActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/activities/FechaHoraActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/activities/FichadaActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/activities/IncidenciasMaquinaActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/activities/LecturaPrecintos.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/activities/LecturaPrecintosDescargaEnBaseActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/activities/LecturaRemitoVisita.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/activities/LoginActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/activities/MaquinasPendientesActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/activities/ModificarBultoActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/activities/ParadasConcluidasActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/activities/RegistroDispositivoActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/activities/RutaMapActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/activities/SaldoAccionesDestinoActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/activities/ServicioGenerico.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/activities/SustitucionPrecintoActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/api/devicemonitor/info/models/request/RequestSendInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/bluetooth/BluetoothSPP.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/bluetooth/BluetoothService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/data/repository/DocumentDetailDataRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/data/repository/OTDataRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/data/repository/ProductDataRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/di/component/NetComponent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/entities/Configuracion.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/entities/Notificacion.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/entities/OT.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/entities/Servicio.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/entities/TipoMercancia.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/entities/carga/Carga.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/features/deviceregister/RegisterDeviceActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/features/parametersremote/ParametersRemoteActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/features/parametersremote/domain/ParametersRemoteUseCase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/model/repository/DocumentDetailRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/model/repository/OTRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/mvvm/features/fichadas/FichadasViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/negocio/NegocioDetalleDocumento.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/negocio/NegocioOT.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/parametros/Conf.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/printer/Impressora.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/printer/KnupMock.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/printer/TicketBase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/printer/ticket/ServiceTicketBrazil.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/printer/ticket/Ticket.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/printer/ticket/TicketAssistance.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/printer/ticket/TicketMaterialOrder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/services/ExportacaoInfoService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/services/LocationService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/sip/Remesa.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/sip/SipReport.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/struct/EstadoOT.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/tasks/parameters/ImportParameters.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/util/DBHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/util/DocumentoUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/util/FileUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/util/MessageUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/util/ResourceBitmapUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/util/SolMobileApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/util/TelefonoUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/util/TransferCase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/util/Util.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/java/com/prosegur/solmobile/views/ViewLecturaDocumento.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/res/values-en/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/res/values-pt-rPT/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/res/values-pt/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/test/java/com/prosegur/solmobile/entities/CodServiceFormatTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/test/java/com/prosegur/solmobile/entities/CodServiceGenerateTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/app/src/test/java/com/prosegur/solmobile/sip/ColumnPosSIPTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sol-mobile/buildsystem/jacoco.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../tiiper_android/app/src/main/java/com/eman/tiipr/ui/presenter/NotificationFragmentPresenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../tiiper_android/app/src/main/java/com/eman/tiipr/ui/view/EnterPhoneNumberFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../tiiper_android/app/src/main/java/com/eman/tiipr/ui/view/IntroActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../tiiper_android/app/src/main/res/drawable/round_border_primary.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../tiiper_android/app/src/main/res/layout/fragment_landing.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../tiiper_android/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../valesClient/app/src/main/java/com/mcba/comandaclient/ui/AddProviderActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../valesClient/app/src/main/res/anim/slide_right.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../valesClient/app/src/main/res/layout/cant_price_fragment.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../valesClient/app/src/main/res/layout/item_item.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/SolMobileX/app/src/main/java/com/prosegur/solmobile/activities/LecturaPrecintosDescargaEnBaseActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/SolMobileX/app/src/main/java/com/prosegur/solmobile/api/devicemonitor/info/models/request/RequestSendInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/SolMobileX/app/src/main/java/com/prosegur/solmobile/data/repository/OTDataRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/SolMobileX/app/src/main/java/com/prosegur/solmobile/data/repository/SealDataRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/SolMobileX/app/src/main/java/com/prosegur/solmobile/di/component/NetComponent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/SolMobileX/app/src/main/java/com/prosegur/solmobile/model/repository/OTRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/SolMobileX/app/src/main/java/com/prosegur/solmobile/model/repository/SealRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/SolMobileX/app/src/main/java/com/prosegur/solmobile/mvvm/features/fichadas/FichadasViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/SolMobileX/app/src/main/java/com/prosegur/solmobile/parametros/Conf.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/SolMobileX/app/src/main/java/com/prosegur/solmobile/printer/Impressora.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/SolMobileX/app/src/main/java/com/prosegur/solmobile/printer/lenguajesprogramacion/api/bixolon/Command.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/SolMobileX/app/src/main/java/com/prosegur/solmobile/printer/ticket/RecaudacionYReposicionTicket.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/SolMobileX/app/src/main/java/com/prosegur/solmobile/printer/ticket/ServiceTicketBase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/SolMobileX/app/src/main/java/com/prosegur/solmobile/printer/ticket/Ticket.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/SolMobileX/app/src/main/java/com/prosegur/solmobile/printer/ticket/TicketComprobacionModulo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/SolMobileX/app/src/main/java/com/prosegur/solmobile/printer/ticket/TicketMaterialOrder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/SolMobileX/app/src/main/java/com/prosegur/solmobile/printer/ticket/TicketResumenServicio.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/SolMobileX/app/src/main/java/com/prosegur/solmobile/sip/SipReport.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/SolMobileX/app/src/main/java/com/prosegur/solmobile/util/Constantes.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/SolMobileX/app/src/main/res/values-pt-rPT/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/SolMobileX/app/src/main/res/values-pt/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/SolMobileX/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/varios/AD/TestCon/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
